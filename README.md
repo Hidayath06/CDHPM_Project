@@ -11,7 +11,7 @@ AI-powered medical chatbot that answers health-related questions using advanced 
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
 ## 🔍 Overview
-This project is part of an internship at the **Centre for Digital Health and Precision Medicine (CDHP&M)**. It focuses on building an AI-based medical chatbot using **Artificial Intelligence**, **Machine Learning**, and **Natural Language Processing (NLP)** to support both clinicians and patients.
+This project is part of an internship at the **Centre for Digital Health and Precision Medicine (CDHPM)**. It focuses on building an AI-based medical chatbot using **Artificial Intelligence**, **Machine Learning**, and **Natural Language Processing (NLP)** to support both clinicians and patients.
 
 The chatbot can interpret **natural language queries** and **medical images**, providing smart and context-aware health-related responses.
 
